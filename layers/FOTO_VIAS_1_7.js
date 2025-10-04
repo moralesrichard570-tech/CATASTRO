@@ -1,0 +1,1 @@
+var json_FOTO_VIAS_1_7 = {"type":"FeatureCollection","name":"FOTO_VIAS_1_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"FOTO_1":null,"DESCRIP_1":null},"geometry":{"type":"Point","coordinates":[-77.826126577923247,0.582886648455864]}}]}

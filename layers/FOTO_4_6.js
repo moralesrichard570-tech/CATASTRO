@@ -1,0 +1,1 @@
+var json_FOTO_4_6 = {"type":"FeatureCollection","name":"FOTO_4_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"FOTO_1":null,"FOTO_2":null,"FOTO_3":null,"FOTO_4":null},"geometry":{"type":"Point","coordinates":[-77.826015280440203,0.58284778525027]}}]}
